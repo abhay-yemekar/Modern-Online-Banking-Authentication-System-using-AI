@@ -1,0 +1,18 @@
+# Modern Online Banking Authentication System Requirements
+# Core dependencies
+numpy==1.23.5
+opencv-contrib-python==4.9.0.80
+pillow==9.5.0
+tensorflow==2.12.0
+
+# Modern GUI
+customtkinter==5.2.0
+
+# Voice and speech
+SpeechRecognition==3.10.1
+pyttsx3==2.90
+pyaudio==0.2.14
+
+# Additional modern dependencies
+requests==2.31.0
+python-dotenv==1.0.0
